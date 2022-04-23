@@ -4,7 +4,7 @@ Hi 👋 My name is Sourab Pramanik
 Application Developer
 ---------------------
 
-I am an application developer, building some really valuable projects and also contributing to the Java-Script ecosystem. I work as a front-end developer in a startup based in India.
+I am an application developer, building some really valuable projects and also contributing to the web and mobile apps ecosystem. I work as a front-end developer in a startup based in India.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning Electron JS, Flutter and fixing bugs.
