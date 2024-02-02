@@ -2,7 +2,7 @@
 
 ![cover](https://github.com/sourabpramanik/me/assets/61370770/59bc864a-e4a6-475f-8021-35646916bd1e)
 
-I'm an indie developer always building something to help people and solve problems. I love working on open-sourced projects and connecting with people sharing billions of ideas. Hit me up on your new open-source project. On 😎weekends I explore new 🚀products rising in web-dev space to write 👨🏻‍💻articles and build projects using them.
+I'm an indie developer always building something to help people and solve problems. I love working on open-sourced projects and connecting with people sharing billions of ideas. Hit me up on your new open-source project. On 😎weekends I explore new 🚀products rising in the web-dev space to write 👨🏻‍💻articles and build projects using them.
 
 ### Connect with me
 
